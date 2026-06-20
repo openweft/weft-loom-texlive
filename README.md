@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/openweft/brand/main/social/weft-loom-texlive.png" alt="weft-loom-texlive" width="720"></p>
+
 # weft-loom-texlive
 
 LaTeX compile sandbox image for [weft-loom-server](https://github.com/openweft/weft-loom-server).
